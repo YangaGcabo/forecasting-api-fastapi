@@ -1,0 +1,9 @@
+forecasting-api-fastapi/
+├── app/
+│   ├── main.py
+│   └── schemas.py
+├── models/
+│   └── model.pkl
+├── Dockerfile
+├── README.md
+└── requirements.txt
